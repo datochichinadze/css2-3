@@ -1,0 +1,312 @@
+#first {
+    width: 1231px;
+    padding: 12px 24px;
+    margin: 0 auto;
+    background-color: #F7F4FF;
+    display: inline-block;
+}
+
+#real {
+    margin-right: auto;
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+}
+
+#foto {
+    padding: 13.489px;
+    align-items: center;
+    vertical-align: middle;
+    margin-left: 70px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#about {
+    color: #323;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 70px;
+}
+
+#what {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+#contact {
+    color: #8E26C0;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+
+#help {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+#us {
+    color: #8E26C0;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    margin-left: 70px;
+}
+
+
+#photo {
+    width: 500px;
+    height: 458px;
+    margin-left: 200px;
+    margin-top: 100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#last {
+    display: inline-block;
+    
+}
+
+
+#offerText {
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+    vertical-align: -webkit-baseline-middle;
+}
+
+h1 {
+    display: inline-block;
+    text-align: center;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#lorem {
+    display: inline-block;
+    text-align: center;
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+    margin-right: 280px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h2 {
+    color: #000;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+}
+
+#ipsum {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    width: 700px;
+    margin: 0 auto;
+}
+
+#sit {
+    width: 1221px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+#second {
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: top;
+    width: 1200px;
+}
+
+#image {
+    display: inline-block;
+}
+
+h3 {
+    color: #1B003D;
+    font-size: 32px;
+    font-weight: 900;
+    display: inline-block;
+}
+
+#text {
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+}
+
+
+#textarea {
+    height: 146px;
+    padding: 12px 16px;
+    align-items: center;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+}
+
+#send {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 8px;
+    background: #8E26C0; 
+    width: 140px;
+    padding: 12px 24px;
+    align-items: center;
+}
+
+#kontact {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: #FFF;
+    vertical-align: top;
+    text-align: left;
+    width: 400px;
+    margin-left: -400px;
+}
+
+
+#form {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#svg {
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 50px;
+    background: #F7F4FF;
+}
+
+#email {
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 50px;
+    background: #F7F4FF;
+}
+
+#phone {
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 50px;
+    background: #F7F4FF;
+}
+
+#addressLogo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#addressText {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#addressId {
+    margin: 0;
+}
+
+#EmailLogo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#EmailText {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#EmailId {
+    margin: 0;
+}
+
+#PhoneLogo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#PhoneText {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#PhoneId {
+    margin: 0;
+}
+
+#ful {
+    display: inline-block;
+}
+
+#name {
+    margin-right: 120px;
+}
+
+#label {
+    margin-right: 130px;
+}
+
+#gmail {
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+}
+
+#game {
+    width: 1920px;
+    height: 480px;
+    padding: 64px 0px 48px 0px;
+    align-items: center;
+    background-color: #53489E;
+}
+
+#pro {
+    
+}
+
+#Product {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-weight: 600;
+}
