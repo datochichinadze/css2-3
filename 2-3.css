@@ -152,7 +152,7 @@ h3 {
     color: #1B003D;
     font-size: 32px;
     font-weight: 900;
-    display: inline-block;
+    text-align: left;
 }
 
 #text {
@@ -160,6 +160,7 @@ h3 {
     align-items: center;
     border-radius: 8px;
     border: 1px solid #8E26C0;
+    width: 600px;
 }
 
 
@@ -169,6 +170,7 @@ h3 {
     align-items: center;
     border-radius: 16px;
     border: 1px solid #8E26C0;
+    width: 600px;
 }
 
 #send {
@@ -190,7 +192,7 @@ h3 {
     vertical-align: top;
     text-align: left;
     width: 400px;
-    margin-left: -400px;
+    /* margin-left: -400px; */
 }
 
 
@@ -279,11 +281,11 @@ h3 {
 }
 
 #name {
-    margin-right: 120px;
+    padding-right: 570px;
 }
 
 #label {
-    margin-right: 130px;
+    padding-right: 580px;
 }
 
 #gmail {
@@ -291,6 +293,7 @@ h3 {
     align-items: center;
     border-radius: 8px;
     border: 1px solid #8E26C0;
+    width: 600px;
 }
 
 #game {
@@ -299,14 +302,23 @@ h3 {
     padding: 64px 0px 48px 0px;
     align-items: center;
     background-color: #53489E;
+    margin-top: 227px;
 }
 
 #pro {
-    
+
 }
 
 #Product {
     color: #D6BBFB;
     font-size: var(--Font-size-text-sm, 14px);
     font-weight: 600;
+}
+
+#submit {
+    text-align: right;
+}
+
+#play {
+    margin-top: 20px;
 }
