@@ -297,22 +297,16 @@ h3 {
 }
 
 #game {
-    width: 1920px;
-    height: 480px;
+    height: 300px;
     padding: 64px 0px 48px 0px;
     align-items: center;
     background-color: #53489E;
     margin-top: 227px;
 }
 
-#pro {
-
-}
-
-#Product {
-    color: #D6BBFB;
-    font-size: var(--Font-size-text-sm, 14px);
-    font-weight: 600;
+#gall {
+    max-width:fit-content;
+    margin: 0 auto;
 }
 
 #submit {
@@ -321,4 +315,340 @@ h3 {
 
 #play {
     margin-top: 20px;
+}  
+
+#pro {
+    max-width: 100px;
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+#Product {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-weight: 600;
+}
+
+#overview {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#features {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#solutions {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#tutorials {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#pricing {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#releases {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#new {
+    color: #FFF;
+    text-align: center;
+    border-radius: var(--radius-sm, 6px);
+    border: 1px solid rgba(255, 255, 255, 0.30);
+    background: rgba(255, 255, 255, 0.10);
+    font-size: 12px;
+}
+
+#company {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-weight: 600;
+}
+
+#usss {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#careers {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#press {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#newss {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#media {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#kitss {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#komp {
+    max-width: 70px;
+    display: inline-block;
+    text-align: left;
+    margin: 70px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+#blo {
+    max-width: 84px;
+    display: inline-block;
+    text-align: left;
+    margin: 70px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+#resources {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-weight: 600;
+}
+
+#blog {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#newsletter {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#events {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#centre {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#tutor {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#support {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#see {
+    max-width: 90px;
+    display: inline-block;
+    text-align: left;
+    margin: 70px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+#cases {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-weight: 600;
+}
+
+#startups {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#enterprise {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#government {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#saas {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#marketplaces {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#ecommerce {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#soc {
+    max-width: 90px;
+    display: inline-block;
+    text-align: left;
+    margin: 70px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+#social {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-weight: 600;
+}
+
+#twitter {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#linkedin {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#facebook {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#github {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#angellist {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#dribbble {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#let {
+    max-width: 30px;
+    display: inline-block;
+    text-align: left;
+    margin: 70px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+#legal {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-sm, 14px);
+    font-weight: 600;
+}
+
+#terms {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#privacy {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#cookies {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#licenses {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#settings {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#contactss {
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    color: #FFF;
+}
+
+#stile {
+    text-align: center;
+}
+
+#copy {
+    color: #D6BBFB;
+    font-size: var(--Font-size-text-md, 16px);
+    font-weight: 400;
+    display: inline-block;
+}
+
+
+#bed {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 50%;
+}
+
+#dead {
+    display: inline-block;
 }
